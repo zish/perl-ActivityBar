@@ -1,0 +1,10 @@
+Revision history for Perl extension ActivityBar.
+
+0.01  Wed Sep 23 2015
+        - Added "animate" subroutine.
+        - Added "example.pl" to distribution, but added it to MANIFEST.SKIP.
+        - Initial packaging for CPAN.
+        - Selected distribution license to be LGPL 3.0 or higher.
+        - Created documentation.
+          <zish@systemhalted.com>
+
