@@ -236,7 +236,7 @@ sub dumpConf {
 
 =head1 AUTHORS
 
-Jeremy Melanson <zish@systemhalted.com>
+Jeremy Melanson <zish[at]systemhalted[dot]com>
 
 =head1 COPYRIGHT
 
